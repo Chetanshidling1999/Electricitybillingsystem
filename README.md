@@ -22,7 +22,8 @@ In addition, high-end electricity bill calculators generally include:
 **
 ` `This is the plot of cost of the calculators in ($ ) and time in  years
 
-![See the source image](Aspose.Words.088b8439-ce94-4b00-aac5-64487bb801e5.001.png)
+[README.md](https://github.com/Chetanshidling1999/Electricitybillingsystem/files/7120418/README.md)
+
 
 [https://www.researchgate.net/profile/Lili\_Liu4/publication/329653747/figure/fig4/AS:723817190137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
 
