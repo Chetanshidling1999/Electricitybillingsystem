@@ -1,10 +1,14 @@
-﻿|**Test ID**|**Description**|**Exp i/P**|**Exp O/P**|**Actual O/P**|
+## Table no: High Level test plan
+
+|**Test ID**|**Description**|**Exp i/P**|**Exp O/P**|**Actual O/P**|
 | :- | :-: | :-: | :-: | :-: |
 |H\_01|Electricity bill calculation at urban areas|Choice|SUCCESS|SUCCESS|
 |H\_02|Electricity bill calculation at rural areas|Choice|SUCCESS|SUCCESS|
 |H\_03|Units consumed per year|Choice|SUCCESS|SUCCESS|
 |H\_04|Calculates total industrial loads|Choice|SUCCESS|SUCCESS|
 
+
+## Table no: Low Level test plan
 
 
 |Test ID|HL\_ID|Description|Exp input|Exp Output|Actual Output|
