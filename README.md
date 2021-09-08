@@ -57,17 +57,17 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
-|`    `HL01|` `Electricity bill calculation at industries|**    |
-|`    `HL02|` `Electricity bill calculation at agriculture||
-|`    `HL03|` `Units consumed per year||
-|`    `HL04|` `Calculates total industrial loads||
+|`    `HL01|` `Electricity bill calculation at industries|Implemented|
+|`    `HL02|` `Electricity bill calculation at agriculture|Implemented|
+|`    `HL03|` `Units consumed per year|Implemented|
+|`    `HL04|` `Calculates total industrial loads|Implemented|
 
 ` `**Low level Requirements:**
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
-|LL01\_HL01|` `Calculates electricity bill at rural areas||
-|LL02\_HL02|` `Calculates electricity bill at urban areas||
-|LL03\_HL03|` `Calculates total load at domestics places||
-|LL04|` `Calculates total unit consumed at domestics places||
+|LL01\_HL01|` `Calculates electricity bill at rural areas|Implemented|
+|LL02\_HL02|` `Calculates electricity bill at urban areas|Implemented|
+|LL03\_HL03|` `Calculates total load at domestics places|Implemented|
+|LL04|` `Calculates total unit consumed at domestics places|Implemented|
 
