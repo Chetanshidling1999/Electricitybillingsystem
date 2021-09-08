@@ -57,10 +57,14 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
-|`    `HL01|` `Electricity bill calculation at industries| Implemented |
-|`    `HL02|` `Electricity bill calculation at agriculture| Implemented |
-|`    `HL03|` `Units consumed per year| Implemented |
-|`    `HL04|` `Calculates total industrial loads| Implemented |
+|`    `HL01|` `Electricity bill calculation at Urban areas if(units<30) | Implemented |
+|`    `HL02|` `Electricity bill calculation at Urban areas if(units>30 && units <100)| Implemented |
+|`    `HL03|` `Electricity bill calculation at Urban areas if(units>101 && units <200) | Implemented |
+|`    `HL04|` `Electricity bill calculation at Urban areas if(units<200)| Implemented |
+|`    `HL05|` `Electricity bill calculation at Rural areas if(units<30) | Implemented |
+|`    `HL06|` `Electricity bill calculation at Rural areas if(units>30 && units <100)| Implemented |
+|`    `HL07|` `Electricity bill calculation at Rural areas if(units>101 && units <200) | Implemented |
+|`    `HL08|` `Electricity bill calculation at Rural areas if(units<200)| Implemented |
 
 ` `**Low level Requirements:**
 
