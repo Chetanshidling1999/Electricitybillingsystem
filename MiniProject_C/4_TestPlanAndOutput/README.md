@@ -13,7 +13,7 @@
 
 |Test ID|HL\_ID|Description|Exp input|Exp Output|Actual Output|
 | :- | :- | :- | :- | :- | :- |
-|L\_01|H\_01|Electricity bill calculation at Urban areas if(units<30)|22 unis|71.5 rupees|71.5 rupees|
+|L\_01|H\_01|Electricity bill calculation at Urban areas if(units<30)|22 units|71.5 rupees|71.5 rupees|
 |L\_02|H\_01|Electricity bill calculation at Urban areas if(units>30 && units <100)|50|235|235|
 |L\_03|H\_01|Electricity bill calculation at Urban areas if(units>101 && units <200)|150|937.5|937.5|
 |L\_04|H\_01|Electricity bill calculation at Urban areas if(units<200)|230|1,679|1,679|
